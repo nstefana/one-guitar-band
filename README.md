@@ -33,4 +33,4 @@ This repository contains a first release of One Guitar Band as a standalone WIND
 
 ## User Guide
 
-[Download the User Guide](docs/OneGuitarBand_userGuide_GR.pdf)
+[Download the Greek version of the User Guide](docs/OneGuitarBand_userGuide_GR.pdf)
