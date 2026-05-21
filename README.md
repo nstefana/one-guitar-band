@@ -18,8 +18,7 @@ The system incorporates several sound production functionalities, including that
 
 ## Requirements
 - Windows 10 or 11
-- An ASIO sound card with at least two inputs and two outputs.\
-- (Optional) A footswitch MIDI controller
+- An ASIO sound card with at least two inputs and two outputs.
 
 ## One Guitar Band Version 1.0
 
