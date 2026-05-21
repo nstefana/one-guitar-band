@@ -9,7 +9,7 @@ The sound of Drums and Bass can be customized to a large degree through various 
 
 ## One Guitar Band Version 1.0
 
-This repository contains a first release of One Guitar Band as a standalone WINDOWS application.  The application will run with limitations, but we will offer a completely unlocked version to a limited number of users for FREE. This offer is for a limited number of users and a first-come first-served approach will be followed.  
+This repository contains a first release of One Guitar Band as a standalone WINDOWS application.  The application will run with limitations, but we can offer a completely unlocked version to a limited number of users for FREE. This offer is for a limited number of users and a first-come first-served approach will be followed.  
 
 ### Trial limitations
 
@@ -17,17 +17,16 @@ This repository contains a first release of One Guitar Band as a standalone WIND
 - Short muting occurs every 18 seconds
 - No exporting to DAW functionality
 
-### Getting a full version
-- At the lower left corner of the GUI you can see your machine ID. Send us an email with this number (inlcuding the "-" sign, if there is one) at onegtrband@gmail.com.
-- When notified so by email, download AppPublic.exe (which is outside the .zip folder) and use it to replace the existing one (inside your OGB folder). The application will then run without any limitations. 
-
----
 
 ## Download (no installation required)
 
 - Go to the Releases section and download 'OGB.zip'
-- Unzip the folder and save it somewhere, e.g. in C:\
-- Double click AppPublic.exe to run the program
+- Unzip the folder and save it somewhere on your hard disk, e.g. in C:\
+- Double click AppPublic.exe inside the OGB folder to run the program
+
+### Access to the unlimited version
+- At the lower left corner of the GUI you can see your machine ID. Send us an email with this number (inlcuding the "-" sign, if there is one) at onegtrband@gmail.com.
+- When notified so by email, download AppPublic.exe (which is outside the .zip folder) and use it to replace the existing one. The application will then run without any limitations. 
 
 ---
 
