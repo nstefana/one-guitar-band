@@ -42,8 +42,12 @@ This repository contains a first release of One Guitar Band as a standalone WIND
 - At the lower left corner of the GUI your machine ID will be printed. Send us an email with this number (including the "-" sign, if there is one) at onegtrband@gmail.com.
 - When notified so by email, download AppPublic.exe once more and use it to replace the existing one in your hard disk. The application will then run without any limitations. 
 
----
-
 ## User Guide
 
 [Download the Greek version of the User Guide](docs/OneGuitarBand_userGuide_GR.pdf)
+
+## Third party libraries
+One Guitar Band incorporates and relies on several excellent open-source libraries:
+- JUCE – Cross-platform C++ framework used for audio processing, user interface development, and audio device management.
+- RTNeural – Lightweight neural network inference library used for real-time machine learning processing.
+- Signalsmith Stretch – High-quality time-stretching and pitch-shifting library used for audio transformation.
