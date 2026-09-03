@@ -9,7 +9,6 @@ The system incorporates several sound production functionalities, including that
 ## Important attributes
 - Up to 4 different Guitar, Modulation, Drums and Bass layers can be generated.
 - The sound of Drums, Cymbals and Bass can be customized to a large degree through wavetable selection and sound synthesis parameter tuning.
-- Once recorded, Drums and Bass elements are represented by a symbolic sequence (something like MIDI) with notes, onsets and velocities. 
 - Post processing: optionally the user can correct any temporal inaccuracies by quantizing the produced Drums and Bass sequence.
 - Load and save functionalities: the user can save all system settings and recorded/produced instruments. At a later point, he/she can recall that data to continue working on the composition.
 - Exporting to DAW: selected layers from selected instruments can be exported as .wav files. The user can then import these files in the DAW of his/her preference to work towards the final production.
@@ -41,7 +40,7 @@ This repository contains a first release of One Guitar Band as a standalone WIND
 
 ## Access to the unlimited version
 - At the lower left corner of the GUI your machine ID will be printed. Send us an email with this number (including the "-" sign, if there is one) at onegtrband@gmail.com.
-- When notified so by email, download AppPublic.exe once more and use it to replace the existing one in your hard disk. The application will then run without any limitations. 
+- Within 24h you will be notified by email to download AppPublic.exe once more and use it to replace the existing one in your hard disk. The application will then run without any limitations. 
 
 ## User Guide
 
