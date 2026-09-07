@@ -2,8 +2,9 @@
 
 One Guitar Band is a real-time stand alone application that allows the user to produce complete musical arrangements using only a guitar and a computer.
 The system incorporates several sound production functionalities, including that of a looper. At each repetition of the loop, the user can interact with either one of the following sound production mechanisms:
+- Guitar production: perform a mono or stereo recording of the guitar sound.
 - Drum production: stimulate the guitar through percussive gestures to produce drum samples (or cymbals) and arange them in time to compose the rhythmic part.
-- Bass production: single notes played on the first three strings of the guitar (covers the range from E1 to A2) are trasnformed into bass sound.
+- Bass production: single notes played on the first three strings of the guitar (covers the range from E1 to A2) are transformed into bass sound.
 - Modulation: a prerecorded guitar layer can be modulated in amplitude and/or in frequency, so as to produce rhythmic and melodic patterns of unique sonic chatacter.
 
 ## Important attributes
