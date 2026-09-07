@@ -14,7 +14,11 @@ The main interface of One Guitar Band:
 
 
 
-!\[One Guitar Band interface](screenshots/GUI\_sept2026.png)
+<p align="center">
+
+&#x20; <img src="screenshots/GUI\_sept2026.png" width="700">
+
+</p>
 
 
 
