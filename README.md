@@ -16,7 +16,7 @@ The main interface of One Guitar Band:
 
 <p align="center">
 
-&#x20; <img src="screenshots/GUI\_sept2026.png" width="700">
+&#x20; <img src="screenshots/GUI_sept2026.png" width="700">
 
 </p>
 
