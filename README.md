@@ -30,7 +30,7 @@ The main interface of One Guitar Band:
 * Post processing: optionally the user can correct any temporal inaccuracies by quantizing the produced Drums and Bass sequence.
 * Load and save functionalities: the user can save all system settings and recorded/produced instruments. At a later point, he/she can recall that data to continue working on the composition.
 * Exporting to DAW: selected layers from selected instruments can be exported as .wav files. The user can then import these files in the DAW of his/her preference to work towards the final production.
-* Song Sections: Settings can be instantly modified with the click of a single button on the GUI or from an external MIDI device.
+* Song Sections: The song arrangement can be instantly modified with the click of a single button on the GUI or from an external MIDI device.
 * Drum model customization: through a simple training procedure, the user can specify custom gestures for the drum production model.
 * Flexibility: All functionalities can be controlled from the GUI, most important functionalities can be triggered also from an external MIDI controller.
 
