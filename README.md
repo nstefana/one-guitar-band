@@ -47,7 +47,7 @@ This repository contains a first release of One Guitar Band as a standalone WIND
 
 ## Trial limitations
 
-* Trial expires on: December 31, 2026
+* Trial expires on: March 31, 2027
 * Short muting occurs every 18 seconds
 * Export and Save functionalities are disabled
 
