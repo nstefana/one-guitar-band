@@ -5,7 +5,7 @@ The system incorporates several sound production functionalities, including that
 
 * Guitar production: perform a mono or stereo recording of the guitar sound.
 * Drum production: stimulate the guitar through percussive gestures to produce drum samples (or cymbals) and arrange them in time to compose the rhythmic part.
-* Bass production: single notes played on the first three strings of the guitar (covers the range from E1 to A2) are transformed into bass sound.
+* Bass production: single notes played on the first 18 notes of the guitar (covers the range from E2 to A3) are transformed into bass sound.
 * Modulation: a prerecorded guitar layer can be modulated in amplitude and/or in frequency, so as to produce rhythmic and melodic patterns of unique sonic character.
 
 
