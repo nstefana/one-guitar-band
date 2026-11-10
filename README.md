@@ -66,6 +66,10 @@ This repository contains a first release of One Guitar Band as a standalone WIND
 
 [Download the User Guide](docs/userGuide_ENG.pdf)
 
+## Watch video demos
+
+[One Guitar Band YouTube Channel](https://www.youtube.com/@oneguitarband)
+
 ## Third party libraries
 
 One Guitar Band incorporates and relies on several excellent open-source libraries:
